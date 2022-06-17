@@ -1,0 +1,1 @@
+import{o as e,c as l,a as i}from"./app.1d2ea21a.js";const s='{"title":"Hooks","description":"","frontmatter":{},"headers":[{"level":2,"title":"useRequest","slug":"userequest"}],"relativePath":"hooks/index.md","lastUpdated":1653839600180}',t={},o=[i('',5)];t.render=function(i,s,t,u,a,d){return e(),l("div",null,o)};export default t;export{s as __pageData};
