@@ -1,0 +1,1 @@
+import{o as l,c as t,a as o}from"./app.120cf796.js";const i='{"title":"跨域处理","description":"","frontmatter":{},"headers":[{"level":2,"title":"产生原因","slug":"产生原因"},{"level":2,"title":"解决方式","slug":"解决方式"}],"relativePath":"dep/cors.md","lastUpdated":1655170591886}',s={},p=[o('',15)];s.render=function(o,i,s,r,n,e){return l(),t("div",null,p)};export default s;export{i as __pageData};
