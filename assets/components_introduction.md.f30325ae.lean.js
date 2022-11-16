@@ -1,1 +1,0 @@
-import{o as n,c as s,a}from"./app.08e06f38.js";const t='{"title":"前言","description":"","frontmatter":{},"headers":[{"level":2,"title":"Usage","slug":"usage"}],"relativePath":"components/introduction.md","lastUpdated":1655169265286}',p={},o=[a('',5)];p.render=function(a,t,p,e,c,l){return n(),s("div",null,o)};export default p;export{t as __pageData};
